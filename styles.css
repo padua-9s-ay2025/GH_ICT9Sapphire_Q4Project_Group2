@@ -108,6 +108,19 @@ body {
     margin-bottom: 20px;
 }
 
+.assigned-task {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #495057;
+    margin-bottom: 5px;        
+}
+
+.deadline {
+    font-size: 0.85rem;
+    color: #6c757d;
+
+}
+
 h1 {
             color: rgb(255, 255, 255);
             font-family: "Archivo Black", sans-serif;
